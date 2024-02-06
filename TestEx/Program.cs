@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Montilivi!");
-            Console.WriteLine("I'm learning Git, woo!");
+            Console.WriteLine("Hello MMiquel!");
+            Console.WriteLine("We are learning Git, woo!");
         }
     }
 }
